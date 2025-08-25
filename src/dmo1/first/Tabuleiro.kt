@@ -1,5 +1,7 @@
 package dmo1.first
 
+import kotlin.random.Random
+
 fun main() {
 
     val x = (1..8).random()
