@@ -1,4 +1,4 @@
-package dmo1.second
+package dmo1.second.`fun`
 
 fun main() {
     print("Digite o nome do aluno: ")

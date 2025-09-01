@@ -1,4 +1,4 @@
-package dmo1.second
+package dmo1.second.collections
 
 fun main() {
     // --- List ---

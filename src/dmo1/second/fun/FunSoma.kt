@@ -1,4 +1,4 @@
-package dmo1.second
+package dmo1.second.`fun`
 
 fun soma(numero1: Int = 0, numero2: Int = 0): Int {
     return numero1 + numero2
