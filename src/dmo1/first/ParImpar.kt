@@ -3,7 +3,7 @@ package dmo1.first
 fun main() {
 
     println("Digite o numero: ")
-    val num = readLine()?.toIntOrNull() ?: 0
+    val num = readlnOrNull()?.toIntOrNull() ?: 0
     if(num != null) {
         val ehPar = if(num % 2 == 0) {
         "Par"
